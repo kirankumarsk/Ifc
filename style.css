@@ -312,10 +312,10 @@ img{max-width: 100%}
 	5. popular disesh css here
 ----------------------------------*/
 .popular-dishes .bg-img-2{
-  background:  url("images m/pins/866229-Spices-Black-pepper-Gray-1.jpg") no-repeat scroll right top;
+  background:  url("images m/home/spices-png-43518\ q1.png") no-repeat scroll right top;
 }
 .popular-dishes {
-  background: #f1f1f1 url("images m/pins/866229-Spices-Black-pepper-Gray-.jpg") no-repeat scroll left bottom;
+  background: #f1f1f1 url("images m/home/spices-png-43493\ \(1\).png") no-repeat scroll left bottom;
 }
 .single-disesh {
   background: #fff none repeat scroll 0 0;
@@ -403,7 +403,7 @@ img{max-width: 100%}
   text-align: center;
 }
 .foode-item-box:before {
-  background: url(images/food/bg-1.png)no-repeat scroll left center;
+  background: url("images/food/bg-1.png")no-repeat scroll left center;
   left: 0;
 }
 .foode-item-box:before,.foode-item-box:after {
@@ -484,11 +484,11 @@ img{max-width: 100%}
 -----------------------------*/
 .our-gallery {
   position: relative;
-  background: url(images/gallery/bg-1.png)no-repeat scroll right top;
+  background: url("images m/home/mapgallery.png")no-repeat scroll right top;
   background-color: #f1f1f1;
 }
 .our-gallery .bg-img-2{
-    background: url(images/gallery/bg-2.png)no-repeat scroll left bottom;
+    background: url("images m/home/vibrant-spice-blend-red-chili-pa.png")no-repeat scroll left bottom;
     padding-bottom: 50px;
     position:relative;
     padding-top: 90px;
@@ -569,7 +569,7 @@ img{max-width: 100%}
 	8. Reservation css here
 -----------------------------*/
 .reservation .bg-img-1{
-   background: url(images/bg/reserv-bg.png)no-repeat scroll left top;
+   background: url("images m/home/top-view-spices-wooden-board.png")no-repeat scroll left top;
 }
 .reserv-section-inner {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.12);
@@ -577,7 +577,7 @@ img{max-width: 100%}
   position: relative;
 }
 .reserv-section-inner .bg-img {
-  background: #fff url("images/bg/reserv-form-bg.png") no-repeat scroll right bottom;
+  background: #fff url("images m/home/istockphoto-1428598301-612x612.jpg") no-repeat scroll right bottom;
   bottom: 0;
   right: 30px;
 }
@@ -1015,7 +1015,7 @@ h3.single-footer-title {
     15.1 Breadcrubs css here
 -------------------------------*/
 .breadcrubs {
-  background: rgba(0, 0, 0, 0) url("images/bg/breadcrubs.jpg") no-repeat scroll center center / cover ;
+  background: rgba(0, 0, 0, 0) url("images m/gallery/gallery1.jpg") no-repeat scroll center center / cover ;
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
   padding: 100px 0;
   position: relative;
@@ -1344,10 +1344,10 @@ h2.counter {
    21. Our gallery page css here
 ----------------------------*/
 .our_gallery  {
-  background:  url("images/gallery/gallery-2/bg-1.png") no-repeat scroll left center;
+  background:  url("images m/gallery1/lined.png") no-repeat scroll left center;
 }
 .our_gallery .bg-img-1 {
-  background: url("images/gallery/gallery-2/bg-2.png") no-repeat scroll right bottom;
+  background: url("images m/gallery1/indian-colourful-spices-group-ph-Photoroom.png") no-repeat scroll right bottom;
 }
 .single-gallery-img {
     position: relative;
